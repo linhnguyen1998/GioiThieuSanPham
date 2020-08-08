@@ -1,0 +1,24 @@
+.backgr-text{
+	margin: 5%; 
+	background-color: rgba(238,179,86,0.3);
+	padding: 5%;
+}
+.backgr-header{
+	background-image: url(sandy-millar-5ZVL9gVLWv4-unsplash.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-position: center center;
+	display: block; 
+	max-width: 100%; 
+	height: auto;
+	text-shadow: white 0.1em 0.1em 0.2em;
+}
+.img-gioithieu{
+	max-width: 250px;
+	min-width: 250px;
+	margin: 0 auto;
+}
+.text-title{
+	font-family: Georgia;
+	font-weight: bold;
+}
